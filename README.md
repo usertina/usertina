@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web programming.
 - 📫 How to reach me:
 - agustinacalleja@gmail.com
-- https://www.linkedin.com/in/tina-calleja-91a07460?trk=contact-info
+- https://www.linkedin.com/in/tina-calleja
 
 
 <!---
