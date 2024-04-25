@@ -1,6 +1,5 @@
-👋 Hola, mi nombre es **Tina Calleja.**
 
-   Desarrolladora web.
+![LOGO](https://github.com/usertina/usertina/assets/124672039/a600a32d-f11f-4a7e-834b-9dd2f8c190af)
 
 -Actualmente me dedico a reforzar mis conocimientos técnicos  en **Koop.Peñascal.**
 
