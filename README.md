@@ -1,7 +1,7 @@
 
 ![LOGO](https://github.com/usertina/usertina/assets/124672039/a600a32d-f11f-4a7e-834b-9dd2f8c190af)
 
--Actualmente me dedico a reforzar mis conocimientos técnicos  en **Koop.Peñascal.**
+Soy desarrolladora web full-stack con experiencia en backend y frontend, apasionada por la tecnología y la seguridad informática. Mi formación intensiva en desarrollo web, junto con mi actual formación en seguridad informática, me ha permitido adquirir habilidades clave en programación, análisis de datos y gestión eficiente de procesos.
 
 -Tengo conocimientos sobre:
 
