@@ -52,7 +52,16 @@ Actualmente, estoy ampliando mis conocimientos con un **certificado en seguridad
 
 ---
 
-## 📫 Contacto  
+## 📫 Contacto
+
+### 📡 Escanea mi QR  
+<p align="center">
+  <a href="https://linko.page/tina-calleja-curriculum">
+    <img src="https://github.com/usertina/usertina/raw/main/Ficha-tina.png" alt="QR Code" width="200">
+  </a>  
+  <br>
+  📡 Escanea o haz clic en el código para más información
+</p>
 
 <p align="center">
   <a href="mailto:agustinacalleja@gmail.com">
