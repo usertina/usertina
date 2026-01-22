@@ -6,12 +6,16 @@
 </p>
 
 ---
+ 
+## 👩‍💻 Desarrolladora Web Full-Stack | Especialista en Ciberseguridad
 
-### 👩‍💻 Sobre mí  
+¡Hola! Soy una desarrolladora web enfocada en construir soluciones robustas, escalables y, sobre todo, seguras. Mi trayectoria combina el desarrollo de software con base en seguridad informática.
 
-Soy **desarrolladora web full-stack** con experiencia en **backend y frontend**, apasionada por la tecnología y la seguridad informática.  
-Actualmente, estoy ampliando mis conocimientos con un **certificado en seguridad informática**, lo que me permite fortalecer mis habilidades en **análisis de vulnerabilidades, protección de datos y ciberseguridad aplicada al desarrollo web**.  
+### 🏢 Experiencia Actual
+Desde septiembre de 2025, formo parte del equipo de [**QUBIZ.team**](https://qubiz.team/) ([LinkedIn](https://www.linkedin.com/company/qubizteam/)), una startup de Bilbao pionera en **sensórica cuántica** y metrología avanzada. En este entorno de *deep tech*, contribuyo al desarrollo de plataformas que traducen avances científicos complejos en soluciones industriales de alto impacto.
 
+### 🛡️ Formación y Especialización
+* **Certificado en Seguridad Informática (Lanbide):** Recientemente completado, fortaleciendo mis habilidades en análisis de vulnerabilidades, protección de datos y ciberseguridad aplicada al ciclo de vida del desarrollo web (*Security-by-Design*).
 ---
 
 ## 🚀 Tecnologías y herramientas  
